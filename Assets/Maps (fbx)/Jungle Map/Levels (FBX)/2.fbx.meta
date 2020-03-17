@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: adf5f6ae58024f74394a05532dcf67a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder51
+    100004: pCylinder52
+    100006: polySurface9230
+    100008: group80
+    100010: pCylinder53
+    100012: pCylinder54
+    100014: pCylinder55
+    100016: pCylinder56
+    100018: polySurface8671
+    100020: polySurface8676
+    400000: //RootNode
+    400002: pCylinder51
+    400004: pCylinder52
+    400006: polySurface9230
+    400008: group80
+    400010: pCylinder53
+    400012: pCylinder54
+    400014: pCylinder55
+    400016: pCylinder56
+    400018: polySurface8671
+    400020: polySurface8676
+    2100000: Rock_2
+    2100002: Details_01
+    2100004: Rock_1
+    2100006: Vine_1
+    2100008: Leaves_01
+    2100010: Roots_01
+    2100012: Tree_01
+    2100014: Collumn_1
+    2100016: lambert1
+    2100018: Tree_02
+    2100020: Road_3
+    2100022: Road_1
+    2100024: Road_2
+    2100026: Ladder_1
+    2100028: Torch_1
+    2100030: Torch_2
+    2100032: Fire
+    2300000: pCylinder51
+    2300002: pCylinder52
+    2300004: polySurface9230
+    2300006: pCylinder53
+    2300008: pCylinder54
+    2300010: pCylinder55
+    2300012: pCylinder56
+    2300014: polySurface8671
+    2300016: polySurface8676
+    3300000: pCylinder51
+    3300002: pCylinder52
+    3300004: polySurface9230
+    3300006: pCylinder53
+    3300008: pCylinder54
+    3300010: pCylinder55
+    3300012: pCylinder56
+    3300014: polySurface8671
+    3300016: polySurface8676
+    4300000: polySurface9230
+    4300002: pCylinder51
+    4300004: pCylinder52
+    4300006: pCylinder53
+    4300008: pCylinder54
+    4300010: polySurface8671
+    4300012: polySurface8676
+    4300014: pCylinder55
+    4300016: pCylinder56
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Collumn_1
+    second: {fileID: 2100000, guid: 793d0f44e57b1dc4e9e8d76739a3a5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Details_01
+    second: {fileID: 2100000, guid: 362808935f1ed4b49809ef830cc2ac93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire
+    second: {fileID: 2100000, guid: 79bc8ad6120c13c4b89b86c664af145d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladder_1
+    second: {fileID: 2100000, guid: d20841f022276144d9aeb0bd25117e58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_01
+    second: {fileID: 2100000, guid: 9ad7fe1232eec9a4a87f3e5e23d54d7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_1
+    second: {fileID: 2100000, guid: 4e266acc1d6a7e541ae66968dd7fc39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_2
+    second: {fileID: 2100000, guid: bc664320bc39d024cb026bfe25d45aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road_3
+    second: {fileID: 2100000, guid: 74cb80b8b935b3c4abeee6a60ccdcbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock_1
+    second: {fileID: 2100000, guid: 978df65c7fec2b940a035746ca64e1fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock_2
+    second: {fileID: 2100000, guid: 163ef333f5173b44eb2dc48178100a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roots_01
+    second: {fileID: 2100000, guid: 376be3daa1ff21b488fdf9195e26136b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torch_1
+    second: {fileID: 2100000, guid: 07e4f131aef182b40898fcbdde35e9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torch_2
+    second: {fileID: 2100000, guid: 096766dc5201e7d45a10e4616547375b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_01
+    second: {fileID: 2100000, guid: 22125593fb6dabe4fbca25d446332b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_02
+    second: {fileID: 2100000, guid: 904405d875d1c1c4cb8e0808133e2e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine_1
+    second: {fileID: 2100000, guid: ffd87aa5eed63c9448cf7374027737bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

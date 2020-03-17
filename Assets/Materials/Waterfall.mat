@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Waterfall
+  m_Shader: {fileID: 4800000, guid: a57edc5f64ff26844bec53cf3cc15d91, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DisplGuide:
+        m_Texture: {fileID: 2800000, guid: e0f1525a8c19ab944a20fbb43b79d2d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 2879cffa45a77b34c9c9a893d58d0c71, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BottomFoamThreshold: 0
+    - _DisplAmount: 4.07
+    - _EmissiveStrengh: 1
+    - _GradientStrength: 1
+    - _yPosHigh: 10
+    - _yPosLow: 0
+    m_Colors:
+    - _ColorBottomDark: {r: 0.24328054, g: 0.6190518, b: 0.7264151, a: 1}
+    - _ColorBottomLight: {r: 0.4669811, g: 0.85193926, b: 1, a: 1}
+    - _ColorHigh: {r: 0, g: 0, b: 0, a: 1}
+    - _ColorLow: {r: 0, g: 0, b: 0, a: 1}
+    - _ColorTopDark: {r: 0.11836952, g: 0.57493764, b: 0.7169812, a: 1}
+    - _ColorTopLight: {r: 0.25938943, g: 0.73235077, b: 0.8207547, a: 1}
+    - _ColorX: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorY: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorZ: {r: 1, g: 1, b: 1, a: 1}
